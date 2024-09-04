@@ -1,0 +1,7 @@
+Random Joke generator
+
+pick a type of joke ('knock knock' 'why did the chicken cross the road' 'a _ and a _ walk into a _')
+
+does Randomly selected joke with random items and characters.
+
+1. have a list of names, ethnicities, items, locations.
